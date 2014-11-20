@@ -1,5 +1,6 @@
 cbench
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/trema/cbench?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](http://img.shields.io/travis/trema/cbench/develop.svg?style=flat)][travis]
 [![Code Climate](http://img.shields.io/codeclimate/github/trema/cbench.svg?style=flat)][codeclimate]
 [![Coverage Status](http://img.shields.io/coveralls/trema/cbench/develop.svg?style=flat)][coveralls]
